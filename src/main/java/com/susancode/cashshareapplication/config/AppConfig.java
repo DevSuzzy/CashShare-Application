@@ -1,4 +1,4 @@
-package com.bctech.cashshareapplication.config;
+package com.susancode.cashshareapplication.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

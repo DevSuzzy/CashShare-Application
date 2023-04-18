@@ -1,4 +1,4 @@
-package com.bctech.cashshareapplication.controller;
+package com.susancode.cashshareapplication.controller;
 
 import com.bctech.cashshareapplication.model.dtos.request.EmailDto;
 import com.bctech.cashshareapplication.model.dtos.response.AppResponse;
